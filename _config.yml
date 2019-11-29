@@ -40,7 +40,7 @@ avatar: "/img/logo__floof_cat_header_no_bg.png"
 
 navbar-col: "#8968B1"
 navbar-text-col: "#8968B1"
-navbar-children-col: "#FA01D1"
+navbar-children-col: "#8968B1"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
