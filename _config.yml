@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: 
+title:  
 
 # Short description of your site
 description: FLOOF privacy policy
@@ -39,7 +39,7 @@ avatar: "/img/logo__floof_cat_header_no_bg.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#8968B1"
-navbar-text-col: "#FA01D1"
+navbar-text-col: "#8968B1"
 navbar-children-col: "#FA01D1"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
